@@ -1,0 +1,19 @@
+.footer {
+    width: 100%;
+    height: auto;
+    background-color: rgba(20, 20, 20, 0.856);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.img-footer {
+    margin: 15px;
+    width: 60px;
+    height: 60px;
+    border-radius: 25px;
+}
+
+.lista-footer {
+    display: flex;
+}
